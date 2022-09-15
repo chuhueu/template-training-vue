@@ -1,3 +1,6 @@
+// function lazyLoad(view){
+//   return() => import(`@/pages/${view}.vue`)
+// }
 const routes = [
   {
     path: '/',
